@@ -8,7 +8,7 @@ const Profile = () => {
   return (
     <div>
       <Head title="Hello" />
-      <div id="title" className="flex items-center justify-center h-100% ">
+      <div id="title">
         <div className="bg-indigo-800 text-white font-bold rounded-lg border shadow-lg p-10">
           Profile
         </div>
